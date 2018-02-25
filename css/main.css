@@ -374,9 +374,10 @@ ul li {
 	box-shadow: 0 0 0 1px #fff;
 	overflow: hidden;
 	position: relative;
-	margin-left:16px;
+	margin-left:24px;
 	margin-top: 12px;
-	width: 250px;
+	width: 308px;
+	height:269.6px;
 }
 .work img {
 	width: 100%;
