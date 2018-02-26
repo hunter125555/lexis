@@ -369,14 +369,13 @@ ul li {
 	 Works
 -------------------------------------------------------------------------------*/
 .work {
-	-moz-box-shadow: 0 0 0 1px #fff;
-	-webkit-box-shadow: 0 0 0 1px #fff;
-	box-shadow: 0 0 0 1px #fff;
+	-moz-box-shadow: 0 0 0 16px #fff;
+	-webkit-box-shadow: 0 0 0 16px #fff;
+	box-shadow: 0 0 0 16px #fff;
 	overflow: hidden;
 	position: relative;
-	margin-left:1.5%;
-	margin-top: 1%;
-	width: 23%;
+	/*width: 23%;*/
+	
 	/*height:269.6px;*/
 }
 .work img {
@@ -459,6 +458,7 @@ ul li {
     border: none;
     border-radius: 0;
     margin-top: 12px;
+    height: 308px;
 }
 
 .thumbnail img {
@@ -466,17 +466,6 @@ ul li {
     height: 100%;
     margin-bottom: 10px;
 }
-
-.insta {
-	width: 25%;
-	height: 299px;
-	
-}
-
-.insta img{
-	width: 299px;
-	height: 299px;
-	padding: 2px;
 
 }
 
