@@ -467,6 +467,10 @@ ul li {
     margin-bottom: 10px;
 }
 
+.thumbnail img:hover{
+	opacity:0.8;
+}
+
 }
 
 .bom{
