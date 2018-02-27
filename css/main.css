@@ -107,8 +107,8 @@ ul li {
 	z-index: 999;
 }
 #header .header-content {
-	margin: 0 auto;
-	max-width: 1170px;
+	margin: 0 20px;
+	max-width: 1300px;
 	padding: 60px 0;
 	width: 100%;
 	-moz-transition: padding 0.3s;
