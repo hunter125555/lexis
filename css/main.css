@@ -101,6 +101,14 @@ ul li {
 /* ------------------------------------------------------------------------------
 	Header
 -------------------------------------------------------------------------------*/
+#textlogo{
+	padding-top: 32px;
+} 
+@media screen and (max-width: 699px) and (min-width: 520px){
+	#textlogo{
+		padding-top: 8px;
+	}
+}
 #header {
 	position: fixed;
 	width: 100%;
